@@ -10,6 +10,7 @@ A Power BI mini project which visualizes the financial report of a company as a 
 ## Visualizations
 - The following report was successfully created in Microsoft PowerBI.
 
+![Dashboard](https://github.com/nirmalakash993/Superstore_dashboard/assets/132489081/85459348-98ee-49e3-baaa-f4f7cce48030)
 
 ## Lessons Learned
 
